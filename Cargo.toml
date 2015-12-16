@@ -5,6 +5,7 @@ description = "HTTP API wrapper for freegeoip.net IP geolocation service"
 authors = ["Gergely Imreh <imrehg@gmail.com>"]
 license = "BSD-3-Clause"
 keywords = ['GeoIP', 'geolocation'] 
+repository = "https://github.com/imrehg/rust-freegeoip"
 
 [dependencies]
 hyper = "^0.7"
