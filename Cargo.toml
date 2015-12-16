@@ -1,0 +1,11 @@
+[package]
+name = "freegeoip"
+version = "0.0.1"
+description = "HTTP API wrapper for freegeoip.net IP geolocation service"
+authors = ["Gergely Imreh <imrehg@gmail.com>"]
+license = "BSD-3-Clause"
+keywords = ['GeoIP', 'geolocation'] 
+
+[dependencies]
+hyper = "^0.7"
+rustc-serialize = "^0.3"
