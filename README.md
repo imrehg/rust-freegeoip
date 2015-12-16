@@ -4,7 +4,7 @@
 [![Crates.io](https://img.shields.io/crates/d/freegeoip.svg)](https://crates.io/crates/freegeoip/)
 [![BSD licensed](https://img.shields.io/badge/license-BSD%203--clause-blue.svg)](./LICENSE)
 
-A wrapper to the [freegeoip][https://freegeoip.net] HTTP API.
+A wrapper to the [freegeoip](https://freegeoip.net) IP geolocation HTTP API.
 
 Work in progress....
 
